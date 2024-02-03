@@ -1,0 +1,26 @@
+p,
+h1 {
+  color: red;
+  border: 1px solid blue;
+  width: 500px;
+  height: 50px;
+}
+
+h1 {
+  /* выравнивание текста */
+  text-align: center;
+}
+
+div {
+  color: aqua;
+}
+
+#text {
+  color: blueviolet;
+  /* px значит 'пиксели': базовый шрифт будет 10 пикселей в высоту */
+  font-size: 50px;
+}
+
+.blue {
+  color: blue;
+}
