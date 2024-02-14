@@ -1,3 +1,46 @@
 em {
   color: blue;
 }
+.one {
+  color: blue;
+}
+.two {
+  color: red;
+}
+.three {
+  color: yellow;
+}
+.four {
+  color: blueviolet;
+}
+.five {
+  color: chocolate;
+}
+.six {
+  color: chartreuse;
+}
+.seven {
+  color: brown;
+}
+.eight {
+  color: aquamarine;
+}
+.nine {
+  color: burlywood;
+}
+.ten {
+  color: crimson;
+}
+.eleven {
+  color: greenyellow;
+}
+.twelve {
+  color: blueviolet;
+}
+.thirteen {
+  color: darkgreen;
+}
+.dolore,
+.maxime {
+  font-size: 20px;
+}
