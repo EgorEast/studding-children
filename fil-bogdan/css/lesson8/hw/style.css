@@ -1,5 +1,20 @@
 .my-image {
+  background-image: url(https://png.pngtree.com/thumb_back/fw800/background/20230610/pngtree-picture-of-a-blue-bird-on-a-black-background-image_2937385.jpg);
+  width: 500px;
+  height: 570px;
+  background-size: contain;
+}
+.my-image-2 {
+  background-image: url(https://png.pngtree.com/thumb_back/fw800/background/20230610/pngtree-picture-of-a-blue-bird-on-a-black-background-image_2937385.jpg);
+  width: 500px;
+  height: 500px;
+  background-position: center;
+}
+.smile {
   background-image: url(smile.jpeg);
-  height: 100px;
-  width: 100px;
+  width: 105px;
+  height: 105px;
+}
+.smile-2 {
+  background-position-y: -105px;
 }
