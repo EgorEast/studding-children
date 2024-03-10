@@ -1,0 +1,8 @@
+.container {
+  background-color: blue;
+  height: 30px;
+}
+.children {
+  background-color: red;
+  height: 100%;
+}
