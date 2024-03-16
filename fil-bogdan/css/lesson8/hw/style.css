@@ -1,0 +1,100 @@
+.my-image {
+  background-image: url(https://png.pngtree.com/thumb_back/fw800/background/20230610/pngtree-picture-of-a-blue-bird-on-a-black-background-image_2937385.jpg);
+  width: 500px;
+  height: 570px;
+  background-size: contain;
+}
+.my-image-2 {
+  background-image: url(https://png.pngtree.com/thumb_back/fw800/background/20230610/pngtree-picture-of-a-blue-bird-on-a-black-background-image_2937385.jpg);
+  width: 500px;
+  height: 500px;
+  background-position: center;
+}
+.smile {
+  background-image: url(smile.jpeg);
+  width: 105px;
+  height: 105px;
+}
+.smile-2 {
+  background-position-y: -105px;
+}
+.smile-3 {
+  background-position-y: -210px;
+}
+.smile-4 {
+  background-position-y: -315px;
+}
+.smile-5 {
+  background-position-x: -105px;
+}
+.smile-6 {
+  background-position-x: -105px;
+  background-position-y: -105px;
+}
+.smile-7 {
+  background-position-x: -105px;
+  background-position-y: -210px;
+}
+.smile-8 {
+  background-position-x: -105px;
+  background-position-y: -315px;
+}
+.smile-9 {
+  background-position-x: -210px;
+}
+.smile-10 {
+  background-position-x: -210px;
+  background-position-y: -105px;
+}
+.smile-11 {
+  background-position-x: -210px;
+  background-position-y: -210px;
+}
+.smile-12 {
+  background-position-x: -210px;
+  background-position-y: -315px;
+}
+.smile-13 {
+  background-position-x: -315px;
+}
+.smile-14 {
+  background-position-x: -315px;
+  background-position-y: -105px;
+}
+.smile-15 {
+  background-position-x: -315px;
+  background-position-y: -210px;
+}
+.smile-16 {
+  background-position-x: -315px;
+  background-position-y: -315px;
+}
+.smile-17 {
+  background-position-x: -420px;
+}
+.smile-18 {
+  background-position-x: -420px;
+  background-position-y: -105px;
+}
+.smile-19 {
+  background-position-x: -420px;
+  background-position-y: -210px;
+}
+.smile-20 {
+  background-position-x: -420px;
+  background-position-y: -315px;
+}
+.div-1 {
+  background-image: url(https://png.pngtree.com/thumb_back/fw800/background/20230610/pngtree-picture-of-a-blue-bird-on-a-black-background-image_2937385.jpg);
+  height: 500px;
+  width: 500px;
+  background-size: contain;
+  background-repeat: space;
+}
+.div-2 {
+  background-image: url(https://png.pngtree.com/thumb_back/fw800/background/20230610/pngtree-picture-of-a-blue-bird-on-a-black-background-image_2937385.jpg);
+  height: 450px;
+  width: 450px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
