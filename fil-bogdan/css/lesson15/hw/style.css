@@ -1,0 +1,48 @@
+body {
+  height: 100vh;
+}
+
+.red {
+  box-shadow: 3px 3px 1px red;
+}
+.text {
+  text-shadow: 5px 5px 13px blue;
+}
+.text1 {
+  text-shadow: 6px 6px 11px pink;
+}
+
+.container {
+  width: 200px;
+  height: 100px;
+  box-shadow: 4px 4px 13px red;
+}
+
+.children {
+  width: 100px;
+  height: 50px;
+  box-shadow: 5px 3px 10px;
+}
+.container2 {
+  width: 50%;
+  height: 75%;
+  box-shadow: 5px 5px 10px brown;
+}
+.children2 {
+  width: 30%;
+  height: 40%;
+  box-shadow: 3px 3px 5px burlywood;
+}
+:root {
+  font-size: 16px;
+}
+.container3 {
+  width: 10rem;
+  height: 75%;
+  box-shadow: 5px 5px 10px brown;
+}
+.children3 {
+  width: 5em;
+  height: 40%;
+  box-shadow: 3px 3px 5px burlywood;
+}
