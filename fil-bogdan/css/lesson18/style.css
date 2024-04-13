@@ -7,3 +7,20 @@
   border: 5px solid blue;
   box-sizing: border-box;
 }
+
+li::marker {
+  color: #2e9aff;
+  /* content: '🌵'; */
+}
+div {
+  color: blueviolet;
+}
+div.name {
+  color: red;
+}
+div.surname {
+  color: darkorange;
+}
+.hello.world.bogdan.smile {
+  color: green;
+}
