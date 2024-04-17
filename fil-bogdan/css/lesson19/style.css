@@ -1,0 +1,49 @@
+.container .name {
+  color: red;
+}
+
+div.container div.name {
+  font-size: 16px;
+  color: #f50000;
+}
+div.sidebar ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+div.sidebar ul li {
+  padding: 5px;
+}
+
+div.container {
+  div.name {
+    font-size: 16px;
+    color: #f50000;
+  }
+}
+
+div.sidebar {
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+}
+
+div.sidebar {
+  ul {
+    li {
+      padding: 5px;
+    }
+  }
+}
+
+.container > .name {
+  border: 3px solid green;
+}
+.name .sidebar {
+  color: green;
+}
+.name > .sidebar {
+  border: 1px solid red;
+}
