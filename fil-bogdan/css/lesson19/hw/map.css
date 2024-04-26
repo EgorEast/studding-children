@@ -3,3 +3,24 @@
   width: 1500px;
   height: 700px;
 }
+.marker {
+  color: white;
+
+  div {
+    background-color: red;
+    width: 7px;
+    height: 10px;
+  }
+}
+.russia {
+  padding-top: 100px;
+  padding-left: 1150px;
+}
+.poland {
+  padding-top: 150px;
+  padding-left: 700px;
+}
+.kazakhstan {
+  padding-left: 1200px;
+  padding-top: 100px;
+}
