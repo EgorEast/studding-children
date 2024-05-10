@@ -1,0 +1,14 @@
+p,
+h1,
+div {
+  color: red;
+}
+
+#first {
+  color: yellow;
+}
+.second {
+  color: blueviolet;
+  width: 100px;
+  height: 200px;
+}
