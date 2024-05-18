@@ -1,5 +1,27 @@
 .container {
+  height: 500px;
   display: flex;
-  flex-wrap: wrap-reverse;
-  justify-content: end;
+  flex-wrap: wrap;
+  /* flex-direction: column; */
+  justify-content: space-evenly;
+  align-items: baseline;
+  row-gap: 20px;
+  column-gap: 40px;
+
+  .element {
+    /* width: 100px; */
+  }
+
+  .element-2 {
+    font-size: 50px;
+  }
+
+  .element-3 {
+    font-size: 100px;
+  }
+}
+
+.container-2 {
+  display: flex;
+  flex-wrap: wrap;
 }
