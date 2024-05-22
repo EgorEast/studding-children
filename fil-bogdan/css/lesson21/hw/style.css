@@ -1,0 +1,40 @@
+/* 1 */
+.bookshelf {
+  display: flex;
+  flex-direction: column;
+}
+.books {
+  display: flex;
+  gap: 15px;
+}
+.shelf {
+  background-color: brown;
+  height: 20px;
+}
+.book {
+  background-color: green;
+  width: 50px;
+  height: 50px;
+}
+/* 3 */
+.container {
+  display: flex;
+}
+.column {
+  display: flex;
+  flex-direction: column;
+}
+.square {
+  width: 50px;
+  height: 50px;
+  margin: 15px;
+}
+.red .square {
+  background-color: red;
+}
+.yellow .square {
+  background-color: yellow;
+}
+.blue .square {
+  background-color: blue;
+}
