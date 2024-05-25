@@ -2,10 +2,12 @@
 .bookshelf {
   display: flex;
   flex-direction: column;
+  gap: 20px;
 }
 .books {
   display: flex;
   gap: 15px;
+  justify-content: center;
 }
 .shelf {
   background-color: brown;
@@ -13,8 +15,12 @@
 }
 .book {
   background-color: green;
-  width: 50px;
-  height: 50px;
+  width: 100px;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
 }
 /* 3 */
 .container {

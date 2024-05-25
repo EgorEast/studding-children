@@ -1,0 +1,16 @@
+.container {
+  display: flex;
+  height: 100px;
+  align-items: center;
+}
+.element-2 {
+  order: 1;
+}
+.element-1,
+.element-3,
+.element-2 {
+  flex-grow: 1;
+}
+.element-3 {
+  align-self: flex-end;
+}
