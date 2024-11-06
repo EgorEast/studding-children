@@ -32,3 +32,9 @@
 .surname {
   color: blueviolet;
 }
+span.name {
+  color: chartreuse;
+}
+span.surname {
+  color: crimson;
+}
