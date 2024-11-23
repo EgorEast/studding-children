@@ -1,0 +1,11 @@
+.kakoito {
+  margin: 0 auto;
+  display: block;
+  width: 600px;
+}
+.gipnodancer {
+  display: inline;
+}
+.container {
+  display: flex;
+}
