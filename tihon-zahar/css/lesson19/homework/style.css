@@ -1,0 +1,20 @@
+nav {
+  background-color: blueviolet;
+
+  button {
+    color: lawngreen;
+  }
+}
+.mugetsu {
+  background-image: url(https://avatars.mds.yandex.net/i?id=4480c2a02b50955890cb263cf3115818e04563d3-4078045-images-thumbs&n=13);
+  width: 300px;
+  height: 300px;
+
+  div {
+    background-color: darkred;
+    padding: 10px;
+  }
+}
+.map {
+  background-image: url();
+}
