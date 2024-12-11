@@ -16,5 +16,26 @@ nav {
   }
 }
 .map {
-  background-image: url();
+  background-image: url(https://i.pinimg.com/originals/d8/44/b8/d844b8069654962ea83fe3f0a554a259.jpg);
+  height: 700px;
+  width: 1000px;
+  background-size: cover;
+}
+.marker {
+  div {
+    background-color: red;
+    height: 10px;
+    width: 10px;
+  }
+}
+.kanada {
+  padding-top: 100px;
+  padding-left: 125px;
+}
+.russia {
+  padding-left: 550px;
+}
+.china {
+  padding-left: 650px;
+  padding-top: 50px;
 }
