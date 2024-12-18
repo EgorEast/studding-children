@@ -8,10 +8,18 @@
 }
 .container {
   display: flex;
-  flex-direction: row-reverse;
+  /* flex-direction: row-reverse; */
 }
 .fish {
-  background-color: black;
+  background-color: blue;
   width: 300px;
   display: block;
+}
+.div,
+.div2 {
+  display: inline;
+}
+.dough {
+  display: flex;
+  flex-direction: column;
 }
