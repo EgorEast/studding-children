@@ -4,6 +4,31 @@
 
 .container {
   display: flex;
-  flex-wrap: wrap-reverse;
-  justify-content: space-evenly;
+  flex-wrap: wrap;
+  /* justify-content: space-evenly; */
+  height: 500px;
+  align-items: center;
+  background-color: blue;
+  row-gap: 20px;
+  column-gap: 30px;
+
+  div {
+    background-color: red;
+  }
+
+  .first {
+    /* font-size: 2rem; */
+  }
+
+  .fourth {
+    /* font-size: 0.5rem; */
+  }
+}
+.container1 {
+  display: flex;
+  height: 200px;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: flex-end;
+  gap: 20px;
 }
