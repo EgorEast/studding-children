@@ -1,0 +1,16 @@
+.shelf {
+  background-color: black;
+  height: 4px;
+  width: 4px;
+}
+
+.books {
+  display: flex;
+  padding: 15px;
+
+  .book {
+    height: 80px;
+    width: 80px;
+    background-color: green;
+  }
+}
