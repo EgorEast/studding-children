@@ -1,17 +1,24 @@
 .shelf {
-  background-color: black;
-  height: 4px;
-  width: 4px;
+  background-color: brown;
+  height: 15px;
 }
 
 .books {
-  /*  */
   display: flex;
   padding: 15px;
+  justify-content: space-between;
 
   .book {
     height: 80px;
     width: 80px;
     background-color: green;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
+}
+nav {
+  display: flex;
+  justify-content: space-between;
 }
