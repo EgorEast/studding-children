@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+}
+.first {
+  order: 1;
+  flex-grow: 1;
+}
+.fourth {
+  order: 1;
+  flex-grow: 2;
+}
