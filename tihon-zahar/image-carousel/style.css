@@ -4,3 +4,9 @@
   width: 1330px;
   height: 750px;
 }
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
